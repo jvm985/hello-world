@@ -1,7 +1,7 @@
 # hello-world
 test voor git
 
-experimentele wijzigingen
+experimental wijzigingen
 
 
 dit is een nieuwe readme
